@@ -1,0 +1,2 @@
+Requestnumber,UserID,Age_date,Homedirectory,Label,Groups,Password,OS,hostname,Action,SecondaryGroups,Subaction
+RITM123456,test_user999,,,744/I/0086h9/IBM/testusesr1,,$2a$04$YZvNja17MnA1t3TOasriTeF3amVhUI0g3.1vITZlME61QRFSgmFtO,Linux,atlinux,creation,,
