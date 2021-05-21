@@ -1,0 +1,4 @@
+Number, Userid,Fullname, Description,Password,Groups,Changepasswordatlogin,hostname,Action,PasswordNeverExpires,UserCannotChangePassword,AccountDisabled
+1,localuser1,Localuser1,\\labelUser1,Password1i@,Administrators|Testing,TRUE,9.113.128.215,windowslocalusercreate,yes,no,no
+2,localuser2,Localuser2,\\labelUser2,Password1i@,Administrators|Testing,FALSE,9.113.128.215,windowslocalusercreate,yes,no,no
+3,localuser3,Localuser3,\\labelUser3,Password1i@,Administrators,TRUE,9.113.128.215,windowslocalusercreate,yes,no,no
