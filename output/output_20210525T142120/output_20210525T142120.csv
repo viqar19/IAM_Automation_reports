@@ -1,0 +1,5 @@
+=================Output =====================================
+=User who started it: admin
+
+Requestnumber,UserID,Age_date,Homedirectory,Label,Groups,Password,OS,hostname,Action,Secondarygroup,Subaction, Message
+RITM123456, test_user999, , , 744/I/0086h9/IBM/testusesr1, , $2a$04$6sMHTxx5fy3ojWy/eIRvv.RmjIl/e/x3cd9gErBoGmZg7968iT8lS, Linux, atlinux, passwordreset, , , Password Change Successful
