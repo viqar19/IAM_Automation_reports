@@ -1,0 +1,5 @@
+=================Output =====================================
+=User who started it: admin
+
+Number,Userid,Fullname,Description,Password,Groups,Changepasswordatlogin,hostname,Action,PasswordNeverExpires,UserCannotChangePassword,AccountDisabled, Message
+1, localuser1, Localuser1, \\labelUser1, $2a$04$seEfyIjT7mXKzBkBkGV2A.7SvGtUCOblS8RHm4ih8u0CQV5auQ8Bi, Administrators, TRUE, 192.168.1.103, windowslocalusercreate, yes, no, no, , New User created successfully.Msg:
