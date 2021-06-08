@@ -1,0 +1,2 @@
+Number, Userid,Fullname, Description,Password,Groups,Changepasswordatlogin,hostname,Action,PasswordNeverExpires,UserCannotChangePassword,AccountDisabled
+1,localuser2,Localuser1,\\labelUser1,Password1i@,Administrators,TRUE,192.168.1.103,windowslocalusercreate,yes,no,no
