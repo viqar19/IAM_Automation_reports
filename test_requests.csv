@@ -1,2 +1,2 @@
 Requestnumber,UserID,Age_date,Homedirectory,Label,Groups,Password,OS,hostname,Action,SecondaryGroups,Subaction
-RITM123456,test_user1995,,,744/I/0086h9/IBM/testusesr1,,Abc@1231,Linux,atlinux8-dws-ansible-com,creation,,
+RITM123456,test_user1995,,,744/I/0086h9/IBM/testusesr1,,Abc@1231,Linux,atlinux,creation,,
