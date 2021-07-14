@@ -1,0 +1,5 @@
+=================Output =====================================
+=User who started it: admin
+
+Requestnumber,UserID,Age_date,Homedirectory,Label,Groups,Password,OS,hostname,Action,Secondarygroup,Subaction, Message
+RITM123456, test_user1, , , 744/I/0086h9/IBM/testusesr1, , Ansible@2021, Linux, atlinux, creation, , , User created but errors -- useradd: warning: the home directory already exists. Not copying any file from skel directory into it. Creating mailbox file: File exists 
