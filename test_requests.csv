@@ -1,6 +1,2 @@
-Requestnumber,UserID,OS,hostname,Action
-1,test_user999,Linux,atlinux,idavailability
-1,test_user1995,Linux,atlinux,idavailability
-1,test1,Linux,atlinux,idavailability
-1,test2,Linux,atlinux,idavailability
-
+Requestnumber,UserID,Age_date,Homedirectory,Label,Groups,Password,OS,hostname,Action,SecondaryGroups,Subaction
+RITM123456,test_user1,,,744/I/0086h9/IBM/testusesr1,,Ansible@2021,Linux,atlinux,creation,,
